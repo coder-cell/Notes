@@ -1,0 +1,583 @@
+MIME-Version: 1.0
+Content-Location: file:///C:/CF195D13/Notes.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:dt=3D"uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DOneNote.File>
+<meta name=3DGenerator content=3D"Microsoft OneNote 15">
+<link id=3DMain-File rel=3DMain-File href=3DNotes.htm>
+<link rel=3DFile-List href=3D"Notes_files/filelist.xml">
+</head>
+
+<body lang=3Den-IN style=3D'font-family:Georgia;font-size:11.0pt'>
+
+<div style=3D'direction:ltr;border-width:100%'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:7.575in'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:4.5979in'>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:20.0pt' lang=3Den-US>S=
+oftware
+Development Life Cycle</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.0409in;margin-left:0in;width:2.4125=
+in'>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'
+lang=3Den-US>Monday, January 10, 2022</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:#767676'
+lang=3Den-US>8:53 PM</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.1895in;margin-left:0in;width:7.575i=
+n'>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US><=
+span
+style=3D'font-weight:bold;text-decoration:underline'>Software Development L=
+ife
+Cycle:</span></p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US>&=
+nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US><=
+span
+style=3D'font-weight:bold;text-decoration:underline'>Traditional Models:</s=
+pan></p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US>&=
+nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US><=
+span
+style=3D'font-weight:bold;font-style:italic'>Spiral Model:</span></p>
+
+<ul type=3Ddisc style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+ margin-bottom:0in'>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Planning</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Risk Analysis</span></l=
+i>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Engineering</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Evaluation</span></li>
+</ul>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US>&=
+nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US><=
+span
+style=3D'font-weight:bold;font-style:italic'>Iterations in Spiral Model:</s=
+pan></p>
+
+<ul type=3Ddisc style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+ margin-bottom:0in'>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Iteration 1: Prototype<=
+/span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Iteration 2: Release
+     Candidate</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Iteration 3: Product La=
+unch</span></li>
+</ul>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:Georgia;font-size:11.=
+0pt'
+lang=3Den-US>&nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US><=
+span
+style=3D'font-weight:bold;font-style:italic'>Rational unified process Cycle=
+:</span></p>
+
+<ul type=3Ddisc style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+ margin-bottom:0in'>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Inception - Objective
+     Milestone - 1 Iteration</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Elaboration - Architect=
+ure
+     Milestone - 2 Iteration</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Construction - Initial
+     Operational Capability Milestone - 3 Iteration</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Transition - Production
+     Release Milestone - 2 Iteration</span></li>
+</ul>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:Georgia;font-size:11.=
+0pt'
+lang=3Den-US>&nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US><=
+span
+style=3D'font-weight:bold;font-style:italic'>Dynamic Systems Development
+Method(DSDM)</span></p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US><=
+span
+style=3D'font-weight:bold;font-style:italic'>Crystal Method</span></p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US>&=
+nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US><=
+span
+style=3D'font-weight:bold;text-decoration:underline'>Modern Approaches:</sp=
+an></p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US>&=
+nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US><=
+span
+style=3D'font-weight:bold;font-style:italic'>Scrum</span>:</p>
+
+<ul type=3Ddisc style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+ margin-bottom:0in'>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>1995</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Roles: Product Owner, S=
+crum
+     Master and Development Team</span></li>
+</ul>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:Georgia;font-size:11.=
+0pt'
+lang=3Den-US>&nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US><=
+span
+style=3D'font-weight:bold;font-style:italic'>Scrum roles:</span></p>
+
+<ul type=3Ddisc style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+ margin-bottom:0in'>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Scrum Master:</span></l=
+i>
+ <ul type=3Dcircle style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+  margin-bottom:0in'>
+  <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3De=
+n-US><span
+      style=3D'font-family:Georgia;font-size:11.0pt'>Agile Coach</span></li>
+  <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3De=
+n-US><span
+      style=3D'font-family:Georgia;font-size:11.0pt'>Servant Leader</span><=
+/li>
+  <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3De=
+n-US><span
+      style=3D'font-family:Georgia;font-size:11.0pt'>Convince not Manage</s=
+pan></li>
+  <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3De=
+n-US><span
+      style=3D'font-family:Georgia;font-size:11.0pt'>Removes barriers</span=
+></li>
+ </ul>
+</ul>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US>&=
+nbsp;</p>
+
+<ul type=3Ddisc style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+ margin-bottom:0in'>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Product Backlog, Sprint
+     Backlog and Product Increment.</span></li>
+</ul>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US>&=
+nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US><=
+span
+style=3D'font-weight:bold;font-style:italic'>Sprint Workflow:</span></p>
+
+<ul type=3Ddisc style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+ margin-bottom:0in'>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Sprint Planning - Produ=
+ct
+     Backlog - Product Owner</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Sprint - Sprint backlog=
+ -
+     Development team &amp; Scrum Master</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Review</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Retrospective - Increme=
+nt</span></li>
+</ul>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US>&=
+nbsp;</p>
+
+<ul type=3Ddisc style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+ margin-bottom:0in'>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Flow: </span></li>
+ <ul type=3Dcircle style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+  margin-bottom:0in'>
+  <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3De=
+n-US><span
+      style=3D'font-family:Georgia;font-size:11.0pt'>Product backlog -&gt; =
+Sprint
+      Backlog -&gt; Daily Scrum Meeting -&gt; Increment.</span></li>
+ </ul>
+</ul>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:Georgia;font-size:11.=
+0pt'
+lang=3Den-US>&nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US><=
+span
+style=3D'font-weight:bold;font-style:italic'>Lean Software Development:</sp=
+an></p>
+
+<ul type=3Ddisc style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+ margin-bottom:0in'>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>2003</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Used by delivery teams =
+such
+     as amazon, insurance companies.</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Lean Value Stream Mappi=
+ng:</span></li>
+ <ul type=3Dcircle style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+  margin-bottom:0in'>
+  <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3De=
+n-US><span
+      style=3D'font-family:Georgia;font-size:11.0pt'>Lead Time: Total Time =
+taken
+      from customer request to delivery.</span></li>
+  <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3De=
+n-US><span
+      style=3D'font-family:Georgia;font-size:11.0pt'>Cycle Time: Actual time
+      spent working on the item.</span></li>
+ </ul>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Main Principle: Elimina=
+te
+     Waste</span></li>
+</ul>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US>&=
+nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US><=
+span
+style=3D'font-weight:bold;font-style:italic'>Kanban</span>:</p>
+
+<ul type=3Ddisc style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+ margin-bottom:0in'>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Visualize your work and=
+ Limit
+     work in progress.</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Little's Law: </span></=
+li>
+ <ul type=3Dcircle style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+  margin-bottom:0in'>
+  <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3De=
+n-US><span
+      style=3D'font-weight:bold;font-family:Georgia;font-size:11.0pt'>No. of
+      items in work queue =3D Average time spent on each work item<span
+      style=3D'mso-spacerun:yes'>  </span>x<span style=3D'mso-spacerun:yes=
+'> 
+      </span>Arrival rate of work items.</span></li>
+ </ul>
+</ul>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US>&=
+nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US><=
+span
+style=3D'font-weight:bold;font-style:italic'>Extreme Programming (XP):</spa=
+n></p>
+
+<ul type=3Ddisc style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+ margin-bottom:0in'>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>1991</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Process:</span></li>
+ <ul type=3Dcircle style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+  margin-bottom:0in'>
+  <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3De=
+n-US><span
+      style=3D'font-family:Georgia;font-size:11.0pt'>Just-in-time design</s=
+pan></li>
+  <ul type=3Ddisc style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+   margin-bottom:0in'>
+   <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3D=
+en-US><span
+       style=3D'font-family:Georgia;font-size:11.0pt'>Pair Programming -
+       Collaboration - Two people working together.</span></li>
+   <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3D=
+en-US><span
+       style=3D'font-family:Georgia;font-size:11.0pt'>Test Driven Developme=
+nt</span></li>
+   <ul type=3Dsquare style=3D'direction:ltr;unicode-bidi:embed;margin-top:0=
+in;
+    margin-bottom:0in'>
+    <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=
+=3Den-US><span
+        style=3D'font-family:Georgia;font-size:11.0pt'>Write Test for the c=
+ode
+        not written</span></li>
+    <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=
+=3Den-US><span
+        style=3D'font-family:Georgia;font-size:11.0pt'>Write function to fa=
+il
+        test - as code is partially developed.</span></li>
+    <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=
+=3Den-US><span
+        style=3D'font-family:Georgia;font-size:11.0pt'>Write code to pass t=
+est
+        -<span style=3D'mso-spacerun:yes'>  </span>Exhaust till all scenar=
+ios are
+        developed.</span></li>
+   </ul>
+  </ul>
+ </ul>
+</ul>
+
+<p style=3D'margin:0in;margin-left:1.125in;font-family:Georgia;font-size:11=
+.0pt'
+lang=3Den-US>&nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US>&=
+nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US><=
+span
+style=3D'font-weight:bold;font-style:italic'>Spotify Model:</span></p>
+
+<ul type=3Ddisc style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+ margin-bottom:0in'>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Release Approach:</span=
+></li>
+ <ul type=3Dcircle style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+  margin-bottom:0in'>
+  <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3De=
+n-US><span
+      style=3D'font-family:Georgia;font-size:11.0pt'>Squad works in paralle=
+l</span></li>
+  <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3De=
+n-US><span
+      style=3D'font-family:Georgia;font-size:11.0pt'>Small frequent release=
+s</span></li>
+  <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3De=
+n-US><span
+      style=3D'font-family:Georgia;font-size:11.0pt'>Release train and feat=
+ure
+      toggle</span></li>
+ </ul>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>CI:<span
+     style=3D'mso-spacerun:yes'>  </span>Kata Board</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Squads - 1-7 people.</s=
+pan></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Tribes: Group of Squads
+     working in specific area.</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Chapter: Group of Squads
+     working in specific expertise.</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Guilds: Group of Squads=
+ with
+     similar interest.</span></li>
+</ul>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:Georgia;font-size:11.=
+0pt'
+lang=3Den-US>&nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US><=
+span
+style=3D'font-weight:bold;font-style:italic'>DevOps</span>:</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:Georgia;font-size:11.=
+0pt'
+lang=3Den-US>Development and Operations.</p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US>&=
+nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US><=
+span
+style=3D'font-weight:bold;font-style:italic'>CMMI</span>:</p>
+
+<ul type=3Ddisc style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+ margin-bottom:0in'>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Capability Maturity Mod=
+el
+     Integration</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>It is a Model not a Sta=
+ndard</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>General guidelines</spa=
+n></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Levels 1 to 5</span></l=
+i>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>1-Initial, 2-Managed,
+     3-Defined, 4-Measured and controlled, 5-Stable &amp; Flexible</span></=
+li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>CMMI V2.0-&gt; Supports=
+ Agile
+     scaling guidelines</span></li>
+</ul>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US>&=
+nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US><=
+span
+style=3D'font-weight:bold;font-style:italic'>Six Sigma:</span></p>
+
+<ul type=3Ddisc style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+ margin-bottom:0in'>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Scientific Method</span=
+></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Reduce defect and varia=
+tion</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Sigma -&gt; Standard
+     Deviation</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Sigma -&gt; 1<span
+     style=3D'mso-spacerun:yes'>  </span>to 6 Variations -&gt;<span
+     style=3D'mso-spacerun:yes'>  </span>Higher sigma level is better, it =
+means
+     lesser number of defects.</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-weight:bold;font-family:Georgia;font-size:11.0pt'>DMAIC =
+Cycle
+     - Define (Value stream Mapping), Measure(Pareto Chart), Analyze(fish b=
+one
+     diagram), Improvement(Affinity Diagram) and Control(Control Charts)</s=
+pan></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><span
+     style=3D'font-family:Georgia;font-size:11.0pt'>Steven Browns - Lean six
+     sigma process.</span></li>
+</ul>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US>&=
+nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Georgia;font-size:11.0pt' lang=3Den-US><=
+span
+style=3D'font-weight:bold;text-decoration:underline'>Reference:</span></p>
+
+<ul type=3Ddisc style=3D'direction:ltr;unicode-bidi:embed;margin-top:0in;
+ margin-bottom:0in'>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle' lang=3Den=
+-US><a
+     href=3D"https://www.linkedin.com/learning-login/share?forceAccount=3Df=
+alse&amp;redirect=3Dhttps%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsoftware-de=
+velopment-life-cycle-sdlc%3Ftrk%3Dshare_ent_url%26shareId%3DjYsfI3EjQdOOm8a=
+udODzLQ%253D%253D"><span
+     style=3D'font-weight:bold;text-decoration:underline;font-family:Georgi=
+a;
+     font-size:11.0pt'>Linkedin</span></a></li>
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'text-align:left;margin:0in;font-family:Arial;font-size:9pt;
+color:#969696;direction:ltr'>Created with OneNote.</p>
+
+</div>
+
+</body>
+
+</html>
